@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 3f87dbe03eeb21541820832598429b26
+  - enabled: 1
+    path: Assets/whack-a-mole.unity
+    guid: db3b4632d96fb8147b3ee09ed20e6e2a
   m_configObjects: {}
